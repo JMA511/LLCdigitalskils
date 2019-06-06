@@ -1,0 +1,59 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.wrapper
+background: lightblue;
+width: 480px;
+padding: 20px 20px 20px 20px;
+
+
+body {
+font-weight: normal;
+text-align: left;
+}
+
+li a {
+  text-decoration: inherit
+}
+
+h1 {
+  color: black;
+}
+
+
+p {
+    color: ##000000;
+    line-height: 1.5
+    font-family: 'Merriweather', serif;
+}
+ol {
+  font-family: 'Merriweather', serif;
+  font-style: italic;
+  line-height: 1.5
+}
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: normal;
+  text-align: center;
+  }
+h2 {
+    font-family: 'Oswald', sans-serif;
+    font-style: italic;
+    color: lightblue
+
+
+  img {
+    image-orientation: center
+  }
+
+  .fas, .fa-edit {
+    color: red
+    font-size: 25px
+  }
+a:hover {
+  color: red;
+}
